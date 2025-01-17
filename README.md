@@ -1,6 +1,7 @@
 # llms_and_applications
 
 ## 1 Introduction to Language Models
+Lecture Lab
 ## 2 Evolution of Language Models
 ## 3 Architecture of LLMs (I)
 ## 4 Architecture of LLMs (II)
